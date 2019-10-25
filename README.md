@@ -1,5 +1,9 @@
 
    
+<p align="center">
+  <img width="460" height="300" src="https://rocketseat.com.br/static/images/update/melhores-tecnologias.svg">
+</p>   
+
 :rocket: **Sobre o desafio**
 Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando Express.
 
